@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    .header{
+    height: 100px;
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    
+    }
+    
+    .banner{
+    background-color: chocolate;
+    color: white;
+    text-align: center;
+    height: 500px;
+    
+    }
+    
+    .fotter{
+    background-color: rgb(228, 206, 7);
+    text-align: center;
+    height: 80px;
+    color: white;
+    
+    }
+    
+    .portfolio{
+    display: flex;
+    
+    }
+    .let_side{
+    width: 50%;
+    height: 400px;
+    background-color: brown;
+    
+    }
+    .right_side{
+    width: 50%;
+    height: 400px;
+    background-color: aquamarine;
+    color: white;
+    
+    }
+    .top{
+    height: 50%;
+    background-color: goldenrod;
+    color: white;
+    
+    }
+    .bottom{
+    height: 50%;
+    background-color: forestgreen;
+    color: white;
+    
+    
+    }
